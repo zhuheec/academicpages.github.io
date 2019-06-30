@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at BitOcean Global.
-He was Senior Software Engineer at Cisco NFV Group. Dr. Zhu received his Ph.D. degree
-in Electrical and Computer Engineering at Carleton University in 2018. Dr. Zhu has a
-broad research interest in edge computing, cloud-native initiatives towards network
-services and blockchain services.
+He is also Founder and CEO of BitQubic. He was Senior Cloud Engineer at Cisco NFV Group.
+
+Dr. Zhu received his Ph.D. degree in Electrical and Computer Engineering at Carleton
+University in 2018. Dr. Zhu has a broad research interest in edge computing,
+cloud-native initiatives towards network services and blockchain services.
+
 
 News
 ======
@@ -35,11 +37,11 @@ _IEEE 4th International Conference on Network Softwarization (NetSoft'18)_,
 June 25-29, 2018, Montreal, Canada.
 
 1. H. Zhu and C. Huang,
-"IOT-B\&B: Edge-Based NFV for IoT Devices with CPE Crowdsourcing",
+"IOT-B&B: Edge-Based NFV for IoT Devices with CPE Crowdsourcing",
 _Wireless Communications and Mobile Computing_, vol. 2018. doi:10.1155/2018/3027269.
 
 1. H. Zhu and C. Huang,
-"VNF-B\&B: Enabling Edge-based NFV with CPE Resource Sharing",
+"VNF-B&B: Enabling Edge-based NFV with CPE Resource Sharing",
 _IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio
 Communication (PIMRC'17)_, October 8-13, 2017, Montreal.
 
@@ -83,3 +85,28 @@ _IET 1st International Conference on WSNs (IET-WSN'10)_, Beijing, China, Novembe
 "EasiSim: A Scalable Simulation Platform for Wireless Sensor Networks".
 _IEEE 13th International Workshop on Computer-Aided Modeling, Analysis
 and Design of Communication Links and Networks (CAMAD'08)_.
+
+
+Patents
+======
+
+1. R. Kuang, S. Xavier, D. Mann, H. Zhu, Y. Wang, Y. Ding,
+"Method and system for authorizing secure electronic transactions using a security device
+having a quick response code scanner",
+_U.S. Patent-9608988_. Filed May 2015, Granted Mar 2017.
+
+1. R. Kuang, S. Xavier, D. Mann, H. Zhu, Y. Wang, Y. Ding,
+"Method and system for authorizing secure electronic transactions using a security device",
+_U.S. Patent-9548978_. Filed May 2015, Granted Jan 2017.
+
+1. R. Kuang, S. Xavier, D. Mann, R. Steklasa, S. Wilson, H. Zhu, N. Bettenburg,
+"Method and system for authenticating a security device",
+_U.S. Patent-9485254_. Filed Mar 2015, Granted Nov 2016.
+
+1. R. Kuang, S. Xavier, R. Steklasa, S. Wilson, H. Zhu,
+"System and method for secure remote access to a service on a server computer",
+_U.S. Patent-9166975_. Filed June 2014, Granted Oct 2015.
+
+1. R. Kuang, S. Xavier, R. Steklasa, S. Wilson, H. Zhu,
+"System and method for secure remote access",
+_U.S. Patent-8739252_. Filed Feb 2013, Granted May 2014.
