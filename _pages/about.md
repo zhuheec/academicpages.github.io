@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at BitOcean Global.
-He is also Founder and CEO of BitQubic. He was Senior Cloud Engineer at Cisco NFV Group.
+Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at
+[BitOcean Global](https://oceanex.pro/en/aboutus). He is also Founder
+and CEO of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
+Engineer at Cisco NFV Group.
 
 Dr. Zhu received his Ph.D. degree in Electrical and Computer Engineering at Carleton
 University in 2018. Dr. Zhu has a broad research interest in edge computing,
@@ -20,8 +22,8 @@ News
 ======
 
 * **[June 2019]** BitOcean has submitted a research paper regarding optimal amount in
-hot wallet reserves. This paper is in collaboration with Prof. Jiayu
-Zhou's team from Michigan State University.
+hot wallet reserves. This paper is in collaboration with Prof. [Jiayu
+Zhou](http://jiayuzhou.github.io/)'s [Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
 
 
 Publications
