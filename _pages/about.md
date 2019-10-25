@@ -13,17 +13,26 @@ Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at
 and CEO of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
 Engineer at Cisco NFV Group.
 
-Dr. Zhu received his Ph.D. degree in Electrical and Computer Engineering at Carleton
-University in 2018. Dr. Zhu has a broad research interest in edge computing,
-cloud-native initiatives towards network services and blockchain services.
+Steve received his Ph.D. degree in Electrical and Computer Engineering from
+[Carleton University](https://carleton.ca) in 2018. He has a broad research
+interest in edge computing, cloud-native initiatives towards network services
+and blockchain services.
 
 
 News
 ======
 
-* **[June 2019]** BitOcean has submitted a research paper regarding optimal amount in
-hot wallet reserves. This paper is in collaboration with Prof. [Jiayu
-Zhou](http://jiayuzhou.github.io/)'s [Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
+* **[Oct 2019]** BitQubic has partnered with
+Prof. [Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html)
+from Carleton University to conduct research on extensible and reliable
+edge computing infrastructure powered by blockchain and container orchestration
+technologies. This partnership has received funding awards from
+[NSERC](http://www.nserc-crsng.gc.ca/index_eng.asp). 
+
+* **[Jun 2019]** BitOcean has submitted a research paper regarding
+optimal amount in hot wallet reserves. This paper is in collaboration
+with Prof. [Jiayu Zhou](http://jiayuzhou.github.io/)'s
+[Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
 
 
 Publications
