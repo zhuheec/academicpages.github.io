@@ -13,10 +13,11 @@ Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at
 of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
 Engineer at Cisco NFV Group.
 
-Steve received his Ph.D. degree in Electrical and Computer Engineering from
-[Carleton University](https://carleton.ca) in 2018. He has a broad research
-interest in edge computing, cloud-native initiatives towards network services
-and blockchain services.
+Steve received his B.Sc. from Beijing Jiaotong University in 2008 and M.Sc.
+from Chinese Academy of Sciences in 2011. He received his Ph.D. in
+Electrical and Computer Engineering from Carleton University in 2018. 
+He has a broad research interest in edge computing, cloud-native initiatives
+towards network services and blockchain services.
 
 
 News
