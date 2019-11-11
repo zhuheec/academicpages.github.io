@@ -10,7 +10,7 @@ redirect_from:
 
 Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at
 [BitOcean Global](https://oceanex.pro/en/aboutus). He is also Founder
-and CEO of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
+of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
 Engineer at Cisco NFV Group.
 
 Steve received his Ph.D. degree in Electrical and Computer Engineering from
@@ -21,6 +21,12 @@ and blockchain services.
 
 News
 ======
+* **[Nov 2019]** Our paper "Shoreline: Data-Driven Threshold Estimation of the
+Online Reserves of Cryptocurrency Trading Platforms" has been accepted to the
+Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20) for oral
+presentation. This paper is in collaboration with Prof.
+[Jiayu Zhou](http://jiayuzhou.github.io/)'s
+[Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
 
 * **[Oct 2019]** BitQubic has partnered with
 Prof. [Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html)
@@ -28,11 +34,6 @@ from Carleton University to conduct research on extensible and reliable
 edge computing infrastructure powered by blockchain and container orchestration
 technologies. This partnership has received funding awards from
 [NSERC](http://www.nserc-crsng.gc.ca/index_eng.asp). 
-
-* **[Jun 2019]** BitOcean has submitted a research paper regarding
-optimal amount in hot wallet reserves. This paper is in collaboration
-with Prof. [Jiayu Zhou](http://jiayuzhou.github.io/)'s
-[Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
 
 
 Publications
