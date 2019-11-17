@@ -40,6 +40,10 @@ technologies. This partnership has received funding awards from
 Publications
 ======
 
+1.  X. Zhang, H. Zhu and J. Zhou, "Shoreline: Data-Driven Threshold Estimation of the
+Online Reserves of Cryptocurrency Trading Platforms", _accepted to the Thirty-Fourth AAAI
+Conference on Artificial Intelligence (AAAI'20)_, to be presented in Feb 2020, New York.
+
 1.  J. Zhou, F. Tang, H. Zhu, N. Nan and Z. Zhou,
 "Distributed Data Vending on Blockchain",
 _2018 IEEE International Conference on Blockchain (Blockchain'18)_, Halifax, Canada.
