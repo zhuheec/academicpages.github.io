@@ -8,20 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Dr. He Zhu (Steve Drew) is Chief Architecture and Security Officer at
-[BitOcean Global](https://oceanex.pro/en/aboutus). He is also Founder
+Dr. Steve Drew (He Zhu) is Chief Architecture and Security Officer at
+[BitOcean Global](https://oceanex.pro/). He is also Founder
 of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
 Engineer at Cisco NFV Group.
 
-Steve received his B.Sc. from Beijing Jiaotong University in 2008 and M.Sc.
+Dr. Drew received his B.Sc. from Beijing Jiaotong University in 2008 and M.Sc.
 from Chinese Academy of Sciences in 2011. He received his Ph.D. in
 Electrical and Computer Engineering from Carleton University in 2018. 
-He has a broad research interest in edge computing, cloud-native initiatives
+Dr. Drew has a broad research interest in edge computing, cloud-native initiatives
 towards network services and blockchain services.
 
 
 News
 ======
+* **[Feb 2020]** On Feb 28, 2020, Dr. Drew had an invited talk at ME4359,
+Carleton University with the title "_Containers, Kubernetes and Edge Computing_".
+The audience include both forth-year undergraduate students and graduate students.
+Credit to Prof. [Chung-Horng Lung](http://www.sce.carleton.ca/faculty/lung.html)
+for the invitation and organization.
+
 * **[Nov 2019]** Our paper "Shoreline: Data-Driven Threshold Estimation of the
 Online Reserves of Cryptocurrency Trading Platforms" has been accepted to the
 Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20) for oral
@@ -41,8 +47,8 @@ Publications
 ======
 
 1.  X. Zhang, H. Zhu and J. Zhou, "Shoreline: Data-Driven Threshold Estimation of the
-Online Reserves of Cryptocurrency Trading Platforms", _accepted to the Thirty-Fourth AAAI
-Conference on Artificial Intelligence (AAAI'20)_, to be presented in Feb 2020, New York.
+Online Reserves of Cryptocurrency Trading Platforms", _The Thirty-Fourth AAAI
+Conference on Artificial Intelligence (AAAI'20)_, Feb 2020, New York.
 
 1.  J. Zhou, F. Tang, H. Zhu, N. Nan and Z. Zhou,
 "Distributed Data Vending on Blockchain",
@@ -74,7 +80,7 @@ _IEEE Globecom 2017_, December 4-8, 2017, Singapore.
 "Cost-Efficient VNF Placement Strategy for IoT Networks with Availability Assurance",
 _IEEE 86th Vehicular Technology Conference (VTC-Fall'17)_, September 2017, Toronto.
 
-1. H. Zhu, D. Li and L. Cui,
+1. H. Zhu and C. Huang,
 "Vulnerability Evaluation for Securely Offloading Mobile Apps in the Cloud".
 _IEEE 2nd International Conference on Cloud Networking (CloudNet'13)_, 2013.
 
