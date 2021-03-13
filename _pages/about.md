@@ -18,7 +18,7 @@ I received my Ph.D. in Electrical and Computer Engineering
 from Carleton University in 2018. I have a broad
 research interest including digital assets management and trading,
 AIOps, edge computing, and cloud-native
-initiatives towards and blockchain services.
+initiatives for blockchain services.
 
 Students I Advised
 ======
