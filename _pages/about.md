@@ -9,15 +9,16 @@ redirect_from:
 ---
 
 I am Steve Drew (He Zhu, 祝贺). Currently, I am Chief Architect at
-[BitOcean Global](https://oceanex.pro/). I am also Founder
-of [BitQubic](https://www.bitqubic.com). Besides, I am a sessional
-instructor at Carleton University. I was a Senior Cloud
-Engineer at Cisco NFV Group.
+BitQubic, a start-up company in Ottawa with the focus on digital assets
+management, trading and brokerage technologies. Besides, I work part-time
+as an instructor at Carleton University. From 2014 to 2018, I was a Senior
+Cloud Engineer at Cisco NFV Group.
 
 I received my Ph.D. in Electrical and Computer Engineering
 from Carleton University in 2018. I have a broad
-research interest AIOps, edge computing, cloud-native initiatives
-towards network services and blockchain services.
+research interest including digital assets management and trading,
+AIOps, edge computing, and cloud-native
+initiatives towards and blockchain services.
 
 Students I Advised
 ======
