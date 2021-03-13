@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Steve Drew (He Zhu). Currently, I am Chief Architect at
+I am Steve Drew (He Zhu, 祝贺). Currently, I am Chief Architect at
 [BitOcean Global](https://oceanex.pro/). I am also Founder
 of [BitQubic](https://www.bitqubic.com). Besides, I am a sessional
 instructor at Carleton University. I was a Senior Cloud

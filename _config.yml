@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About He Zhu / Steve Drew"
+title                    : "About Steve Drew (He Zhu)"
 title_separator          : "-"
-name                     : &name "He Zhu (Steve Drew)"
-description              : &description "Academic page of Dr. He Zhu (Steve Drew)"
+name                     : &name "Steve Drew (He Zhu)"
+description              : &description "Academic page of Dr. Steve Drew"
 url                      : https://zhuheec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuheec/zhuheec.github.io"
