@@ -8,30 +8,63 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Steve Drew (He Zhu) is Chief Architecture and Security Officer at
-[BitOcean Global](https://oceanex.pro/). He is also Founder
-of [BitQubic](https://www.bitqubic.com). He was a Senior Cloud
+I am Steve Drew (He Zhu). Currently, I am Chief Architect at
+[BitOcean Global](https://oceanex.pro/). I am also Founder
+of [BitQubic](https://www.bitqubic.com). Besides, I am a sessional
+instructor at Carleton University. I was a Senior Cloud
 Engineer at Cisco NFV Group.
 
-Dr. Drew received his B.Sc. from Beijing Jiaotong University in 2008 and M.Sc.
-from Chinese Academy of Sciences in 2011. He received his Ph.D. in
-Electrical and Computer Engineering from Carleton University in 2018. 
-Dr. Drew has a broad research interest in edge computing, cloud-native initiatives
+I received my Ph.D. in Electrical and Computer Engineering
+from Carleton University in 2018. I have a broad
+research interest AIOps, edge computing, cloud-native initiatives
 towards network services and blockchain services.
 
+Students I Advised
+======
+- [Mr. Khoa Nguyen](https://khoantd2010.github.io/), PhD student at Carleton University
+- [Mr. Amir Aghasharif](https://www.linkedin.com/in/aghasharif/), PhD student at Carleton University
+- [Mr. Arash Noori](https://www.linkedin.com/in/arash-noori/), master student at Carleton University
+- [Mr. Haohan Zhang](https://www.linkedin.com/in/haohan-zhang-352910174/), undergraduate student at Carleton University
 
 News
 ======
-* **[Feb 2020]** On Feb 28, 2020, Dr. Drew had an invited talk at ME4359,
+* **[Mar 2021]** I am invited to give a seminar at Department of EECS, York University.
+
+* **[Mar 2021]** I am invited to give a seminar at School of Computer Science, University of Windsor.
+
+* **[Jan 2021]** Our paper "EdgePV: Collaborative Edge Computing Framework for Task Offloading"
+has been accepted to IEEE ICC'21. This paper is in collaboration with Prof.
+[Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) from Carleton University.
+It is one of the research outcomes for the 
+[NSERC Engage Grant](https://newsroom.carleton.ca/2020/carleton-receives-nserc-grants-to-support-innovative-industry-partnerships/).
+
+* **[Jan 2021]** The winter term of 2021 starts at Carleton U!
+I will be teaching IRM4004 - Big Data Analytics and Applications.
+
+* **[Oct 2020]** Our paper ["Collaborative Container-based Parked Vehicle Edge Computing
+Framework for Online Task Offloading"](https://cloudnet2020.ieee-cloudnet.org/wp-content/uploads/sites/237/2020/11/TS4-P2.pdf)
+has been accepted to IEEE CloudNet'20. This paper is in collaboration with Prof.
+[Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) from Carleton University.
+It is one of the research outcomes for the 
+[NSERC Engage Grant](https://newsroom.carleton.ca/2020/carleton-receives-nserc-grants-to-support-innovative-industry-partnerships/).
+
+* **[Sep 2020]** The fall term of 2020 starts at Carleton U! This term will be quite
+different as everything is moving online. I will be teaching NET2008 - DevOps.
+
+* **[Mar 2020]** I am invited to give a talk
+at University of Calgary with the title
+"_Edge Computing Resource Management for Data-intensive Applications_".
+
+* **[Feb 2020]** I am invited to give a talk at
 Carleton University with the title "_Containers, Kubernetes and Edge Computing_".
 The audience include both forth-year undergraduate students and graduate students.
 Credit to Prof. [Chung-Horng Lung](http://www.sce.carleton.ca/faculty/lung.html)
 for the invitation and organization.
 
-* **[Nov 2019]** Our paper "Shoreline: Data-Driven Threshold Estimation of the
-Online Reserves of Cryptocurrency Trading Platforms" has been accepted to the
-Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20) for oral
-presentation. This paper is in collaboration with Prof.
+* **[Nov 2019]** Our paper ["Shoreline: Data-Driven Threshold Estimation of the
+Online Reserves of Cryptocurrency Trading Platforms"](https://ojs.aaai.org/index.php/AAAI/article/view/5472)
+has been accepted to the Thirty-Fourth AAAI Conference on Artificial Intelligence
+(AAAI-20) for oral presentation. This paper is in collaboration with Prof.
 [Jiayu Zhou](http://jiayuzhou.github.io/)'s
 [Illidan Lab](http://illidanlab.github.io/) from Michigan State University.
 
@@ -45,6 +78,12 @@ technologies. This partnership has received funding awards from
 
 Publications
 ======
+1. K. Nguyen, S. Drew, C. Huang and J. Zhou, "EdgePV: Collaborative Edge
+Computing Framework for Task Offloading", _IEEE ICC'21_, June 2021.
+
+1. K. Nguyen, S. Drew, C. Huang and J. Zhou, "Collaborative Container-based
+Parked Vehicle Edge Computing Framework for Online Task Offloading"},
+_The 9th IEEE International Conference on Cloud Networking (CloudNet'20)_, Nov 2020.
 
 1.  X. Zhang, H. Zhu and J. Zhou, "Shoreline: Data-Driven Threshold Estimation of the
 Online Reserves of Cryptocurrency Trading Platforms", _The Thirty-Fourth AAAI
