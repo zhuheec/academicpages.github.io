@@ -83,7 +83,7 @@ Publications
 Computing Framework for Task Offloading", _IEEE ICC'21_, June 2021.
 
 1. K. Nguyen, S. Drew, C. Huang and J. Zhou, "Collaborative Container-based
-Parked Vehicle Edge Computing Framework for Online Task Offloading"},
+Parked Vehicle Edge Computing Framework for Online Task Offloading",
 _The 9th IEEE International Conference on Cloud Networking (CloudNet'20)_, Nov 2020.
 
 1.  X. Zhang, H. Zhu and J. Zhou, "Shoreline: Data-Driven Threshold Estimation of the
