@@ -20,27 +20,13 @@ research interest including digital assets management and trading,
 AIOps, edge computing, and cloud-native
 initiatives for blockchain services.
 
-Students I Advised
+Students I Co-Advised
 ======
-- [Mr. Khoa Nguyen](https://khoantd2010.github.io/), PhD student at Carleton University
-- [Mr. Amir Aghasharif](https://www.linkedin.com/in/aghasharif/), PhD student at Carleton University
-- [Mr. Arash Noori](https://www.linkedin.com/in/arash-noori/), master student at Carleton University
-- [Mr. Haohan Zhang](https://www.linkedin.com/in/haohan-zhang-352910174/), undergraduate student at Carleton University
+
+- [Mr. Khoa Nguyen](https://khoantd2010.github.io/), PhD candidate at Carleton University
 
 News
 ======
-* **[Mar 2021]** I am invited to give a seminar at Department of EECS, York University.
-
-* **[Mar 2021]** I am invited to give a seminar at School of Computer Science, University of Windsor.
-
-* **[Jan 2021]** Our paper "EdgePV: Collaborative Edge Computing Framework for Task Offloading"
-has been accepted to IEEE ICC'21. This paper is in collaboration with Prof.
-[Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) from Carleton University.
-It is one of the research outcomes for the 
-[NSERC Engage Grant](https://newsroom.carleton.ca/2020/carleton-receives-nserc-grants-to-support-innovative-industry-partnerships/).
-
-* **[Jan 2021]** The winter term of 2021 starts at Carleton U!
-I will be teaching IRM4004 - Big Data Analytics and Applications.
 
 * **[Oct 2020]** Our paper ["Collaborative Container-based Parked Vehicle Edge Computing
 Framework for Online Task Offloading"](https://cloudnet2020.ieee-cloudnet.org/wp-content/uploads/sites/237/2020/11/TS4-P2.pdf)
