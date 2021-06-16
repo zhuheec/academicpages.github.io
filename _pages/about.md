@@ -28,6 +28,12 @@ Students I Co-Advised
 News
 ======
 
+* **[May 2021]** Our paper "EdgePV: Collaborative Edge Computing Framework for Task Offloading"
+has been accepted to IEEE ICC'21 and awarded Student Grant. This paper is in collaboration with Prof.
+[Changcheng Huang](http://www.sce.carleton.ca/faculty/huang.html) from Carleton University.
+It is one of the research outcomes for the 
+[NSERC Engage Grant](https://newsroom.carleton.ca/2020/carleton-receives-nserc-grants-to-support-innovative-industry-partnerships/).
+
 * **[Oct 2020]** Our paper ["Collaborative Container-based Parked Vehicle Edge Computing
 Framework for Online Task Offloading"](https://cloudnet2020.ieee-cloudnet.org/wp-content/uploads/sites/237/2020/11/TS4-P2.pdf)
 has been accepted to IEEE CloudNet'20. This paper is in collaboration with Prof.
